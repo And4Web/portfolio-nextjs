@@ -4,9 +4,9 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  /* background-color: rgb(254, 254, 254); */
-  
-  height: 4rem;
+  background-color: rgb(254, 254, 254);
+  box-shadow: 0 1px 5px grey;
+  height: 3.8rem;
   width: 100vw;
   position: fixed;
   top: 0;
@@ -16,8 +16,8 @@
 }
 .siteLogo{
   font-family: 'Monoton', cursive;
-  color: whitesmoke;
-  font-size: 2.2rem;
+  color: black;
+  font-size: 2rem;
   /* font-weight: bold; */
 }
 .siteLogo:hover{
@@ -33,7 +33,7 @@
   cursor: pointer;
   font-size: 1.1rem;
   /* padding-right: 2rem; */
-  padding-bottom: .5rem;
+  padding-bottom: 1.1rem;
   margin-right: 2rem;
   /* background-color: aquamarine; */
 }
