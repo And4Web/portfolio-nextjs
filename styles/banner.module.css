@@ -14,18 +14,26 @@
   height: 100vh;
   width: 50%;
 }
+.bannerImageContainer{
+  position: absolute;
+  top: 5rem;
+}
 .bannerImage{  
   position: absolute;
   top: 20rem;
  
 }
 .right{
+  padding: 0;
+  margin: 0;
   /* background-color: #fbc2eb; */
   /* width: 100%; */
   /* position: relative;   */
   /* position: absolute; */
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 .intro{
   /* background-color: #a18cd1;  */
@@ -42,15 +50,23 @@
   /* text-decoration: underline; */
   border-bottom: 2px solid black;
   /* margin-bottom: 1rem; */
+  padding: 0;
+  margin: 0;
 }
 .hello{
+  padding: 0;
+  margin: 0;
   font-size: 2rem;
 }
 .developer{
-  font-size: 2.5rem;
+  padding: 0;
+  margin: 0;
+  font-size: 2.2rem;
   color: #6032cb;
 }
 .mern{
+  padding: 0;
+  margin: 0;
   font-size: 1.1rem;
   color: #6032cb;
 }
