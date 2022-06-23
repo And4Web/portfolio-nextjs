@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
 .header{
   display: flex;
   align-items: center;
@@ -12,21 +14,26 @@
   padding: 0 5%;
 
 }
-.navBar{
- 
-}
 .siteLogo{
+  font-family: 'Monoton', cursive;
+  color: whitesmoke;
   font-size: 2.2rem;
+  /* font-weight: bold; */
+}
+.siteLogo:hover{
+  cursor: pointer;
 }
 .navItems{
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
 .navItem{
   cursor: pointer;
   font-size: 1.1rem;
   /* padding-right: 2rem; */
+  padding-bottom: .5rem;
   margin-right: 2rem;
   /* background-color: aquamarine; */
 }
