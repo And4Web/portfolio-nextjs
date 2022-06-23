@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Berkshire+Swash&family=Bungee+Inline&family=Comfortaa:wght@700&family=Cookie&family=Courgette&family=Dancing+Script&family=Fascinate&family=Fascinate+Inline&family=Fredericka+the+Great&family=Great+Vibes&family=Lobster&family=Monoton&family=Niconne&family=Orbitron:wght@600&family=Pacifico&family=Potta+One&family=Righteous&family=Roboto:wght@100;300;400;500;700&family=Rubik+Moonrocks&family=Russo+One&family=Sacramento&family=Satisfy&family=Stick+No+Bills:wght@200&display=swap');
 
 .header{
   display: flex;
@@ -16,6 +16,30 @@
 }
 .siteLogo{
   font-family: 'Monoton', cursive;
+  /* font-family: 'Audiowide', cursive;
+  font-family: 'Berkshire Swash', cursive;
+  font-family: 'Bungee Inline', cursive;
+  font-family: 'Comfortaa', cursive;
+  font-family: 'Cookie', cursive;
+  font-family: 'Courgette', cursive;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Fascinate', cursive;
+  font-family: 'Fascinate Inline', cursive;
+  font-family: 'Fredericka the Great', cursive;
+  font-family: 'Great Vibes', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Monoton', cursive;
+  font-family: 'Niconne', cursive;
+  font-family: 'Orbitron', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Potta One', cursive;
+  font-family: 'Righteous', cursive;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-family: 'Russo One', sans-serif;
+  font-family: 'Sacramento', cursive;
+  font-family: 'Satisfy', cursive;
+  font-family: 'Stick No Bills', sans-serif; */
   color: black;
   font-size: 2rem;
   /* font-weight: bold; */
